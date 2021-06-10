@@ -15,7 +15,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "registry": "http://registry.npmjs.org/",
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -27,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/changesunline/robotdm-cli-dev/issues"
   },
-  "gitHead": "77ef080af987a52d1f48e1634f40b1b5e677c34e"
+  "gitHead": "950717ac40808ec41dd8380ad8ad2ebbea82ad4c"
 }
