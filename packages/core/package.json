@@ -15,7 +15,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://r.npm.taobao.org/"
+    "registry": "http://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
@@ -27,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/changesunline/robotdm-cli-dev/issues"
   },
-  "gitHead": "41be41045f28b0ec4a6551aa82ca393dc011cf87"
+  "gitHead": "77ef080af987a52d1f48e1634f40b1b5e677c34e"
 }
