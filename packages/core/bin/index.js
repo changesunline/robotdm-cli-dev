@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('welcome core')
+console.log('welcome')
