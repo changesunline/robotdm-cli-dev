@@ -1,3 +1,6 @@
 #!/usr/bin/env node
 
-console.log('welcome @robotdm-cli-dev/core')
+const utils = require('@robotdm-cli-dev/utils')
+
+utils()
+console.log('core')

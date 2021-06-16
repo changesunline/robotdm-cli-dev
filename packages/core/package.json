@@ -27,6 +27,9 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
+  "dependencies": {
+    "@robotdm-cli-dev/utils": "file:../utils"
+  },
   "bugs": {
     "url": "https://github.com/changesunline/robotdm-cli-dev/issues"
   },
