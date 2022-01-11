@@ -3,4 +3,4 @@
 const utils = require('@robotdm-cli-dev/utils')
 
 utils()
-console.log('cli')
+console.log('core')
