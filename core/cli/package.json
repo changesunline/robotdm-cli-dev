@@ -1,6 +1,6 @@
 {
   "name": "@robotdm-cli-dev/core",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "robotdm-cli-dev core",
   "author": "changesunline <526625932@qq.com>",
   "homepage": "https://github.com/changesunline/robotdm-cli-dev#readme",
@@ -28,7 +28,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@robotdm-cli-dev/utils": "^1.0.12",
+    "@robotdm-cli-dev/utils": "^1.0.13",
     "import-local": "^3.1.0",
     "npmlog": "^6.0.0"
   },
