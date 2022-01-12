@@ -1,8 +1,8 @@
 {
   "name": "@robotdm-cli-dev/core",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "robotdm-cli-dev core",
-  "author": "zhout <zhout@wyn88.com>",
+  "author": "changesunline <526625932@qq.com>",
   "homepage": "https://github.com/changesunline/robotdm-cli-dev#readme",
   "license": "ISC",
   "main": "lib/index.js",
@@ -28,7 +28,9 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@robotdm-cli-dev/utils": "file:../../utils/utils"
+    "@robotdm-cli-dev/utils": "file:../../utils/utils",
+    "import-local": "^3.1.0",
+    "npmlog": "^6.0.0"
   },
   "bugs": {
     "url": "https://github.com/changesunline/robotdm-cli-dev/issues"

@@ -1,6 +1,10 @@
 #!/usr/bin/env node
 
-const utils = require('@robotdm-cli-dev/utils')
+const importLocal = require('import-local')
+const npmLog = require('npmlog')
 
-utils()
-console.log('core')
+if (importLocal(__filename)) {
+    npmLog.info('cli', '正在使用robotdm-cli本地版本')
+} else {
+    require('../lib')(process.argv.slice(2))
+}

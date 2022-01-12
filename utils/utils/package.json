@@ -1,8 +1,8 @@
 {
   "name": "@robotdm-cli-dev/utils",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "robotdm-cli-dev utils",
-  "author": "zhout <zhout@wyn88.com>",
+  "author": "changesunline <526625932@qq.com>",
   "homepage": "https://github.com/changesunline/robotdm-cli-dev#readme",
   "license": "ISC",
   "main": "lib/index.js",
