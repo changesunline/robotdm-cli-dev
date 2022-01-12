@@ -28,12 +28,12 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@robotdm-cli-dev/utils": "file:../../utils/utils",
+    "@robotdm-cli-dev/utils": "^1.0.12",
     "import-local": "^3.1.0",
     "npmlog": "^6.0.0"
   },
   "bugs": {
     "url": "https://github.com/changesunline/robotdm-cli-dev/issues"
   },
-  "gitHead": "950717ac40808ec41dd8380ad8ad2ebbea82ad4c"
+  "gitHead": "aad576677be97de82963bb7deb47e55ef6c1ce2f"
 }
